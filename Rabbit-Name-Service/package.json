@@ -1,0 +1,27 @@
+{
+  "name": "rabbit-name-service",
+  "version": "1.0.0",
+  "description": "A project which gives people the opportunity to share their favorite music, movie, quote, youtube video, ... on the Ethereum blockchain using the Layer 2 Polygon under the form of Non-Fungible Token (NFT).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "RabbitNameService"
+  },
+  "keywords": [
+    "blockchain",
+    "smart contract",
+    "ethereum",
+    "nft",
+    "polygon",
+    "hardhat"
+  ],
+  "author": "Romain Trefault",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.5"
+  }
+}
