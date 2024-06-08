@@ -1,7 +1,7 @@
 const main = async () => {
   const [owner, superCoder] = await hre.ethers.getSigners();
   const domainContractFactory = await hre.ethers.getContractFactory('Domains');
-  const domainContract = await domainContractFactory.deploy("fav");
+  const domainContract = await domainContractFactory.deploy("rabbit");
   await domainContract.deployed();
 
   console.log("Contract owner:", owner.address);
