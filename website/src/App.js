@@ -9,7 +9,7 @@ import { networks } from './utils/networks';
 
 // Constants
 const GITHUB_HANDLE = 'IA-Symbolique';
-const GITHUB_LINK = `https://github.com/${GITHUB_HANDLE}`;
+const GITHUB_LINK = `https://github.com/rom1trt/RabbitNameService`;
 // Add the domain you will be minting
 const tld = '.rabbit';
 const CONTRACT_ADDRESS = '0x53Dee0748DF7dDDf3205e5D62ea42B75C12523c5';
