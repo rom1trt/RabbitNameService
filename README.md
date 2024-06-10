@@ -49,8 +49,8 @@
 A website to mint your own domain as an NFT on the L2 Polygon Network. Your domain will be able to represent your favorite movie, music, quote, or whatever you want.
 
 Polygon Amoy Tesnet contract address -> `0x53Dee0748DF7dDDf3205e5D62ea42B75C12523c5`
-You can check the [demo webapp](https://polygon-name-service-nft.vercel.app/) deployed on the testnet  
-You can browses minted NFTs on [opensea](https://testnets.opensea.io/collection/rabbit-name-service-v4)
+You can check the [demo webapp](https://rabbit-name-service-nft.vercel.app) deployed on the testnet  
+You can browses minted NFTs on [opensea](https://testnets.opensea.io/)
 
 ### Built With
 
@@ -65,17 +65,17 @@ You can browses minted NFTs on [opensea](https://testnets.opensea.io/collection/
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Click on [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](polygon-name-service-nft.vercel.app) to launch website
+### Click on [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rabbit-name-service-nft.vercel.app) to launch website
 
 ### Installation
 
 1. `git clone https://github.com/rom1trt/polygon-name-service-nft.git` to clone the repository
-2. `npm install` to install NPM (Node Package Manager)
+2. `npm install` to install packages (Node Package Manager)
 3. `cd website`
 4. `npm install`
 5. `npm start` to run locally (local host)
 
-### Click on [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](polygon-name-service-nft.vercel.app) to launch frontend
+### Click on [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rabbit-name-service-nft.vercel.app) to launch frontend
 
 ### Features
 
